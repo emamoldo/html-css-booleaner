@@ -1,0 +1,39 @@
+#logo{
+    width: 200px;
+    padding-top: 120px;
+}
+
+#site_header{
+    background-color: #4ea1fe;
+    background-image: url("../img/sfondo.png");
+    height: 180px;   
+    margin-bottom: -50px;
+    margin-top: -75px;
+    
+}
+#sfondo_logo{
+    width: 150px;
+}
+
+#title{
+    color: #979796;
+    margin-bottom: -15px;
+}
+#titolo_articolo{
+    font-size: 75px;
+    margin-bottom: -15px;
+}
+
+#title2{
+    color: #7cccf0;
+}
+
+
+
+
+
+
+
+
+
+
