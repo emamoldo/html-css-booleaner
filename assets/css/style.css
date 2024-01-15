@@ -50,6 +50,18 @@
 }
 
 
+#table_text{
+    border-collapse: collapse;
+    margin: 0;
+}
+#table_text thead{
+    background-color: #20a9e5;
+    color: white;
+}
+#back_color{
+    background-color: #b0e5f3;
+}
+
 
 
 
