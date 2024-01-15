@@ -62,7 +62,14 @@
     background-color: #b0e5f3;
 }
 
-
+#photo p{
+    color: white;
+    font-size: 22px;
+    font-weight: bold;
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 15px;
+}
 
 
 
